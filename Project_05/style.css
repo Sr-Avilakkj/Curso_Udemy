@@ -1,0 +1,17 @@
+h1 {
+    font-style: italic;
+    color: hsl(141, 76%, 40%);
+    text-align: left;
+    text-shadow: 1px 1px;
+    text-shadow: rgb(9, 83, 35);
+}
+
+p {
+    font-style: italic;
+    color: hsl(141, 76%, 40%);
+    text-align: left;
+}
+
+body{
+    background-color: rgb(5, 45, 19);
+}
