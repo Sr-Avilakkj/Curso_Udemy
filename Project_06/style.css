@@ -1,0 +1,11 @@
+h1 {
+    font-style: italic;
+    color: rgb(24, 178, 79);
+    text-align: center;
+    text-shadow: 1px 1px;
+    text-shadow: rgb(9, 83, 35);
+}
+
+body{
+    background-color: rgb(5, 45, 19);
+}
