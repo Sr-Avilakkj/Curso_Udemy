@@ -6,8 +6,8 @@ console.log('A temperatura informada em celsius, foi de: ' + celsius + '°')
 
 let fahrenheit = (celsius * 1.8) + 32
 
-console.log('Em Fahrenheit: ' + fahrenheit.toFixed(2))
+console.log('Em Fahrenheit: ' + fahrenheit.toFixed(1))
 
-document.getElementById('celsius').innerHTML = ('A temperatura informada em celsius, foi de: ' + celsius + '°. ' + 'Em Fahrenheit: ' + fahrenheit.toFixed(2) + '°')
+document.getElementById('celsius').innerHTML = ('A temperatura informada em celsius, foi de: ' + celsius + '°. ' + 'Em Fahrenheit: ' + fahrenheit.toFixed(1) + '°')
 
-alert(celsius + '° em Fahrenheit: ' + fahrenheit.toFixed(2) + '°')
+alert(celsius + '° em Fahrenheit: ' + fahrenheit.toFixed(1) + '°')
